@@ -1,0 +1,17 @@
+[
+  {
+    "id": 2,
+    "name": "Jim Rice",
+    "description": "A legendary left fielder for the Boston Red Sox.",
+    "date": "1953-10-22",
+    "type": "Birthday",
+    "location": "Anderson, South Carolina",
+    "username": "admin",
+    "everyYear": true,
+    "tags": [
+      "Boston Red Sox",
+      "MLB",
+      "Hall of Famer"
+    ]
+  }
+]
